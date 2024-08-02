@@ -1,7 +1,9 @@
-@import url(style/header.css);
+@import url(styles/header.css);
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
+    --laranja: #eb9b00;
+    --azul-degrade:linear-gradiente(97.57deg,#002f52 35.49%, #326589 165.37%);
 }
 body{
     background-color: var(--cor-de-fundo);
